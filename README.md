@@ -48,4 +48,4 @@ Também possuo uma série de artigos sobre **SQL** publicados no LinkedIn.
 
 ## 🌐 Contato
 [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://linkedin.com/in/npimentel1/) 
-[![email](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg)](mailto:nikollas_p@hotmail.com) 
+[![email](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg)](mailto:nikollas_p@hotmail.com)
