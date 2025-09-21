@@ -5,20 +5,20 @@ Analista de dados com mais de 4 anos de experiência transformando dados brutos 
 
 ## 💻 Tecnologias
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 📊 Estatísticas do meu perfil
 
 <div align="left">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=npitombeira&show_icons=true&theme=radical&hide=prs,issues,contribs"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npitombeira&layout=compact&theme=radical"/>
-  <img height="200em" src="https://nirzak-streak-stats.vercel.app/?user=npitombeira&theme=radical&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=npitombeira&show_icons=true&theme=radical&hide=prs,issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npitombeira&layout=compact&theme=radical"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=npitombeira&theme=radical&hide_border=false"/>
 </div>
 
 ## 📂 Projetos em destaque
@@ -46,5 +46,7 @@ Também possuo uma série de artigos sobre **SQL** publicados no LinkedIn.
 
 
 ## 🌐 Contato
-[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://linkedin.com/in/npimentel1/) 
-[![email](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg)](mailto:nikollas_p@hotmail.com)
+<!-- [![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://linkedin.com/in/npimentel1/) 
+[![email](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Outlook.svg)](mailto:nikollas_p@hotmail.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/npimentel1/) 
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nikollas_p@hotmail.com)
