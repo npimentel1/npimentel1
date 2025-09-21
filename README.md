@@ -18,12 +18,8 @@ Analista de dados com mais de 4 anos de experiência transformando dados brutos 
 <div align="left">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=npitombeira&show_icons=true&theme=radical&hide=prs,issues,contribs"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npitombeira&layout=compact&theme=radical"/>
-</div>
-
-<div align="left">
   <img height="200em" src="https://nirzak-streak-stats.vercel.app/?user=npitombeira&theme=radical&hide_border=false)"/>
 </div>
-
 
 ## 📂 Projetos em destaque
 ### 📈 [Uber Ride Analytics](https://github.com/npitombeira/uber-ride-analytics) – Análise de corridas da Uber usando Kaggle dataset *(em contrução)*
