@@ -18,7 +18,8 @@ Analista de dados com mais de 4 anos de experiência transformando dados brutos 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=npitombeira&show_icons=true&theme=radical&hide=prs,issues,contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=npitombeira&layout=compact&theme=radical"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=npitombeira&theme=radical&hide_border=false"/>
+  <!-- <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=npitombeira&theme=radical&hide_border=false"/> -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=npitombeira&theme=radical&hide_border=false"/>
 </div>
 
 ## 📂 Projetos em destaque
